@@ -75,12 +75,17 @@ Clone the repository and install the required dependencies:
 
 ```bash
 git clone [https://github.com/wonderingpanda510gh/CPE486_586_Final_Project_Python_Code](https://github.com/wonderingpanda510gh/CPE486_586_Final_Project_Python_Code)
+
 pip install -r requirements.txt
 
 
 Usage
 
 To train both the Baseline Linear Models and the Neural NGCB Models, execute the main script:
+
+First need to create a file folder: "dataset"
+
+Then import the file [https://www.kaggle.com/datasets/mustafasayed1181/movies-metadata-cleaned-dataset-19002025/](https://www.kaggle.com/datasets/mustafasayed1181/movies-metadata-cleaned-dataset-19002025/) into the folder (just the data_movies_clean.xlsx file)
 
 python main.py
 ```
