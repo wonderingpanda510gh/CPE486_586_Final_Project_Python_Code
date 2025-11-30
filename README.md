@@ -63,7 +63,7 @@ In this framework, the neural network functions as a **Coefficient Generator** r
 
 ### Prerequisites
 
-* Python 3.8+
+* Python 3.10
 * PyTorch
 * Scikit-learn
 * Pandas, NumPy
@@ -74,7 +74,7 @@ In this framework, the neural network functions as a **Coefficient Generator** r
 Clone the repository and install the required dependencies:
 
 ```bash
-git clone [https://github.com/wonderingpanda510gh/CPE486_586_Final_Project_Code.git](https://github.com/wonderingpanda510gh/CPE486_586_Final_Project_Code.git)
+git clone [https://github.com/wonderingpanda510gh/CPE486_586_Final_Project_Python_Code](https://github.com/wonderingpanda510gh/CPE486_586_Final_Project_Python_Code)
 pip install -r requirements.txt
 
 
