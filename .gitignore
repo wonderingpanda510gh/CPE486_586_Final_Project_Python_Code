@@ -1,0 +1,47 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Virtual env ---
+venv/
+.venv/
+env/
+ENV/
+
+# --- Jupyter notebook checkpoints ---
+.ipynb_checkpoints/
+
+# --- Distribution/build files ---
+build/
+dist/
+*.egg-info/
+*.egg
+
+# --- VS Code ---
+.vscode/
+
+# --- PyCharm ---
+.idea/
+
+# --- Logs ---
+*.log
+
+# --- OS files ---
+.DS_Store
+Thumbs.db
+
+# --- Environment files---
+.env
+.env.*
+
+# --- Cache ---
+*.cache/
+.cache/
+
+# ignore large dataset files
+dataset/*.xlsx
+dataset/*.csv
+dataset/*.json
+dataset/*.parquet
+
